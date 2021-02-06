@@ -36,4 +36,4 @@ https://play.google.com/store/apps/details?id=cc.blynk&hl=ru&gl=US
 
 ![alt text](https://github.com/CHE77/Blynk-Esp-01-Smart-Socket/blob/main/esp8266-01s-relay-expansion-module-back1.jpg?raw=true)
 
-C другой стороны надо добывать перемычку мужду VCC и CH_PD. Иначе контролер может не загрузиться.
+C другой стороны надо добавить перемычку мужду VCC и CH_PD. Иначе контролер может не загрузиться.
