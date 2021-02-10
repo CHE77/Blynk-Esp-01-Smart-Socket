@@ -31,7 +31,8 @@ ConfigStore configStore;
 const ConfigStore configDefault = {
   0x626C6E6B,
   BOARD_FIRMWARE_VERSION,
-  0, 0, 0,
+  0, // change to 1 to use config after boot
+  0, 0,
   
   "",// Wi-Fi SSID можно уже ввести по умолчанию (между "")
   "",// Wi-Fi password можно уже ввести по умолчанию
